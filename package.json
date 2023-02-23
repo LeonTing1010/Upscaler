@@ -1,0 +1,20 @@
+{
+  "name": "upsacler",
+  "private": true,
+  "version": "1.0.0",
+  "description": "Scale images at 4x resolutions",
+  "author": "Leon Ting",
+  "license": "MIT",
+  "main": "scaler.js",
+  "scripts": {
+    "dev": ""
+  },
+  "engines": {
+    "node": "^16.0.0"
+  },
+  "dependencies": {
+    "@tensorflow/tfjs-node": "^4.0.0",
+    "seedrandom": "3.0.5",
+    "upscaler": "1.0.0-beta.8"
+  }
+}
